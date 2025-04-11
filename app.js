@@ -79,7 +79,7 @@
         // while (i<7) {
         //     console.log((i+1) + "." +nom);
         //     i++;
-        // }
+        // } 
     
 
         //le do while s'éxécute au moins une fois meme si la condition est fausse avant de vérifier si la condition est vrai
@@ -92,45 +92,45 @@
 
 
         //ls tableaux
-        // let nom=[
-        //     "Thiam",
-        //     "Sow",
-        //     "Sy",
-        //     "Dia",
-        // ];
-        // nom[4]=("Ba");
-        // console.log(nom);
+                let nom=[
+                    "Thiam",
+                    "Sow",
+                    "Sy",
+                    "Dia",
+                ];
+                nom[4]=("Ba");
+                console.log(nom);
 
-        // let nom=[
-        //     "Thiam",
-        //     "Sow",
-        //     "Sy",
-        //     "Dia",
-        // ];
-        // nom.push=("Ba");
-        // console.log(nom);
+        let nom1=[
+            "Thiam",
+            "Sow",
+            "Sy",
+            "Dia",
+        ];
+        nom1.push=("Ba");
+        console.log(nom1);
 
-        // let nom=[
-        //     "Thiam",
-        //     "Sow",
-        //     "Sy",
-        //     "Dia",
-        // ];
-        // nom [4]=("Ba");
-        // nom.shift();
-        // console.log(nom);
+        let nom2=[
+            "Thiam",
+            "Sow",
+            "Sy",
+            "Dia",
+        ];
+        nom2 [4]=("Ba");
+        nom2.shift();
+        console.log(nom2);
          
 
 
-        // let nom=[
-        //     "Thiam",
-        //     "Sow",
-        //     "Sy",
-        //     "Dia",
-        // ];
-        // nom [4] =("Ba");
-        // nom [5] =("Ndao");
-        // console.log(nom);
+        let nom3=[
+            "Thiam",
+            "Sow",
+            "Sy",
+            "Dia",
+        ];
+        nom3 [4] =("Ba");
+        nom3 [5] =("Ndao");
+        console.log(nom3);
 
 
 
